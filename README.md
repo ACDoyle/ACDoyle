@@ -21,7 +21,7 @@ I am cloud architect, focused on automation and observability.
 - Working on multiple clouds (Azure, AWS) and hybrid scenarios.
 - Introducing automation, security at scale.
 <br>## Connect with me
-<br />
+<br>
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohammad-faisal-2665b5134)<br>
 
 <br>## Expertise
