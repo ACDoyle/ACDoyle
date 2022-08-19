@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 
 ### Hello World 💬
-I am cloud architect, focused on automation and observability.
-- Working on multiple clouds (Azure, AWS) and hybrid scenarios.
-- Introducing automation, security at scale.
+I am savvy cloud specialist, focused on automation and observability.
+- working on multiple clouds (Azure, AWS) and hybrid scenarios.
+- introducing automation, security at scale.
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/maciej-bednarczyk-327a6a20)<br>
 ## Expertise
